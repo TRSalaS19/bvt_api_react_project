@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  max-height: 100%;
+  width: 100%;
+  background-image: url("https://images.pexels.com/photos/2832382/pexels-photo-2832382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

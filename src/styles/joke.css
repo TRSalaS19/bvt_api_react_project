@@ -1,0 +1,39 @@
+.joke_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #000;
+  /* color: #fff; */
+  height: 50%;
+  width: 50%;
+  border-radius: 50px;
+  opacity: 0.9;
+}
+
+#setup {
+  padding: 0 20px;
+  color: #ff9130;
+}
+
+#punchline {
+  color: #fff;
+}
+
+#show_punchline {
+  font-size: 19px;
+}
+
+.btn {
+  width: 150px;
+  margin: 10px;
+  font-size: 20px;
+  border-radius: 50px;
+  background-color: #ff9130;
+  color: #fff;
+}
+
+/* .btn_white {
+  color: #000;
+} */
